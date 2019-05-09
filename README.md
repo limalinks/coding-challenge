@@ -2,7 +2,7 @@
 
 #### Components
  - Backend Server built using Laravel Lumen
- - Frontend buily using Svelte Sapper
+ - Frontend built using Svelte Sapper
 
 ## Screenshots
 
