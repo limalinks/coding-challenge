@@ -1,3 +1,18 @@
+# Weather Application
+
+#### Components
+ - Backend Server built using Laravel Lumen
+ - Frontend buily using Svelte Sapper
+
+## Screenshots
+
+#### Current Weather
+![Current Weather](Screenshot_1.png)
+#### Five Day Forcast
+![Five Day Forecast](Screenshot_2.png)
+
+
+
 # coding-challenge
 
 * **Objective**: Build a securely hosted Weather app with at least 5 day forecast.
